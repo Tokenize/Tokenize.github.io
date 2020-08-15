@@ -1,0 +1,26 @@
+body {
+    background: #343434;
+    color: #FFFFFF;
+    margin-left: 1em;
+}
+a {
+    color: rgb(149, 196, 237);
+}
+h3 {
+    margin-top: 2em;
+}
+
+#people {
+    margin-top: 3em;
+}
+
+.logo {
+    display: inline-block;
+    margin: 0.5em 0.25em 0.5em 0em;
+}
+.logo .green {
+    color: rgb(207, 227, 142);
+}
+.logo .blue {
+    color: rgb(149, 196, 237);
+}
